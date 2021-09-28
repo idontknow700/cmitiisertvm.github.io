@@ -1,4 +1,4 @@
-# cmitiisertvm.github.io
+# Club of Mathematics, IISER Thiruvananthapuram
 Development repository for the official website of CMIT. Created by @thesagniksaha and managed by the current club coordinators.
 
 The CMIT logo is a property of the Club of Mathematics, IISER Thiruvananthapuram and was designed by @thesagniksaha in 2018. The articles, graphics and other content present in this website are property of the respective creators.
