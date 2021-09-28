@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/cmitiisertvm/cmitiisertvm.github.io.git
-	branch = main
