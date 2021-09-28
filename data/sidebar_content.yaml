@@ -1,0 +1,17 @@
+blog: # must match the slug of your blog
+  single_sidebar: # for single-sidebar layout
+    image:
+    title: The CMIT Blog
+    description: "The CMIT blog is home to updates from all the recent activities at the club. Posts will center around excerpts from lectures at the CMIT talk series, updates about quizzes and other fun events, articles submitted by contributors, and occasional updates from peer discussion sessions. Follow us on social media for some exclusive content."
+    #author: Sagnik Saha
+    text_link_label: View Recent Posts
+    text_link_url: /blog
+    #show_sidebar_adunit: true # show ad container
+  list_sidebar: # for list-sidebar layout
+    image: ""
+    title: The CMIT Blog
+    description: "The CMIT blog is home to updates from all the recent activities at the club. Posts will center around excerpts from lectures at the CMIT talk series, updates about quizzes and other fun events, articles submitted by contributors, and occasional updates from peer discussion sessions. Follow us on social media for some exclusive content."
+    #author: Sagnik Saha
+    #text_link_label: Subscribe via RSS
+    #text_link_url: /index.xml
+    #show_sidebar_adunit: true # show ad container
