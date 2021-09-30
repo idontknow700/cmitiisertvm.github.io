@@ -22,11 +22,20 @@
     
     <item>
       <title>Archive of events</title>
-      <link>https://cmit.iisertvm.ac.in/archive/</link>
+      <link>https://cmit.iisertvm.ac.in/events/</link>
       <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
       
-      <guid>https://cmit.iisertvm.ac.in/archive/</guid>
+      <guid>https://cmit.iisertvm.ac.in/events/</guid>
       <description>Events at CMIT.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us. Join us on Instagram, Twitter, or Facebook at @cmitiisertvm.</description>
+    </item>
+    
+    <item>
+      <title>CMIT Activities</title>
+      <link>https://cmit.iisertvm.ac.in/activities/</link>
+      <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
+      
+      <guid>https://cmit.iisertvm.ac.in/activities/</guid>
+      <description>Activities at CMIT.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us. Join us on Instagram, Twitter, or Facebook at @cmitiisertvm.</description>
     </item>
     
     <item>
@@ -53,7 +62,7 @@
       <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
       
       <guid>https://cmit.iisertvm.ac.in/discord/</guid>
-      <description>The CMIT official Discord Server.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us.</description>
+      <description>The CMIT official Discord server.One principal motive of CMIT has always been to discuss about mathematics and help each other in the community. After the success of our first web-based discussion portal in 2020, we moved over to CMIT&#39;s own Discord server. The server has wonderful functionality alongside LaTeX support, dedicated reading groups, and various discussion channels.The CMIT Discord server is a place to discuss mathematics, solve problems, share information and participate in math related events at CMIT and elsewhere.</description>
     </item>
     
     <item>
@@ -85,11 +94,38 @@
     
     <item>
       <title>Past Coordinators</title>
-      <link>https://cmit.iisertvm.ac.in/past/</link>
+      <link>https://cmit.iisertvm.ac.in/about-past/</link>
       <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
       
-      <guid>https://cmit.iisertvm.ac.in/past/</guid>
+      <guid>https://cmit.iisertvm.ac.in/about-past/</guid>
       <description>CMIT coordinators in the past.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us.</description>
+    </item>
+    
+    <item>
+      <title>Peer Discussions</title>
+      <link>https://cmit.iisertvm.ac.in/peer-discussions/</link>
+      <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
+      
+      <guid>https://cmit.iisertvm.ac.in/peer-discussions/</guid>
+      <description>Peer Discussion Sessions.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us. Join us on Instagram, Twitter, or Facebook at @cmitiisertvm.</description>
+    </item>
+    
+    <item>
+      <title>S2</title>
+      <link>https://cmit.iisertvm.ac.in/s2/</link>
+      <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
+      
+      <guid>https://cmit.iisertvm.ac.in/s2/</guid>
+      <description>$S^2$: CMIT&#39;s Second Foundation Anniversary.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us.</description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://cmit.iisertvm.ac.in/s3/</link>
+      <pubDate>Mon, 27 Sep 2021 14:47:22 -0600</pubDate>
+      
+      <guid>https://cmit.iisertvm.ac.in/s3/</guid>
+      <description>$S^3$: CMIT&#39;s Third Foundation Anniversary.The ‘Club of Mathematics, IISER Thiruvananthapuram’ is recognized officially by the Mathematics Department at IISER Thiruvananthapuram, and is faculty-supervised. You can contact the faculty coordinators or any of the position bearers for any information, or email your queries directly to mathsclub [at] iisertvm [dot] ac [dot] in. We are very active on social media and such platforms are great places to connect with us.</description>
     </item>
     
     <item>
@@ -118,7 +154,7 @@ This time, the two-part lecture will be delivered by Prof.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cmit.iisertvm.ac.in/wpc/</guid>
-      <description>Weekly Problem Contests.CMIT holds a Weekly Problem Contest (WPC) where a set of problems are sent out as an open-to-all contest for students and asked for independent solution submissions. Innovative solutions are noted and published on our site.Note that copying total solutions from any source is heavily discouraged and destroys the objective of such a contest. You can submit your solutions (in any form of media) to mathsclub [at] iisertvm [dot] ac [dot] in with a subject line of the form “Solution Submission to Week X Problems”.</description>
+      <description>Weekly Problem Contests (archived).CMIT hosted Weekly Problem Contests (WPC) where a set of problems were sent out as an open-to-all contest for students and asked for independent solution submissions. Innovative solutions were noted and published on our site.Note that copying total solutions from any source is heavily discouraged and destroys the objective of such a contest. You can submit your solutions (in any form of media) to mathsclub [at] iisertvm [dot] ac [dot] in with a subject line of the form “Solution Submission to Week X Problems”.</description>
     </item>
     
   </channel>
